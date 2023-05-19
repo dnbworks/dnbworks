@@ -6,7 +6,7 @@ I've always been interested in the web. I enjoy building websites from ground up
 If you appreciate my work and want to build your online presence, don't be afraid to get in touch with me if I can assist.
 
 ## Find me around the web 🌎
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dooyong-nsaako-8966571b4/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dooyong-nsaako/)
 
 
 ## Tech Stack

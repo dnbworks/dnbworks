@@ -1,6 +1,6 @@
 # Greetings! 👋 I'm Don.
 
-Web Developer...
+Software Developer...
 
 I've always been interested in the web. I enjoy building websites from ground up and sharing helpful web information.
 If you appreciate my work and want a developer, don't be afraid to get in touch with me if I can assist.
